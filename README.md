@@ -2,7 +2,7 @@
 
 ### Sample Command for running the flask server
 ```python
-python3 flask_server.py -c CONNECTOR_NAME -v VENDOR_NAME -p FLASK_PORT -H LOGSTASH -P LOGSTASH_PORT -t TENANT_NAME
+python3 flask_server.py -c CONNECTOR_NAME -v VENDOR_NAME -p FLASK_PORT -H LOGSTASH_HOST -P LOGSTASH_PORT -t TENANT_NAME
 ```
 
 ### Sample Command for posting data to the flask server
